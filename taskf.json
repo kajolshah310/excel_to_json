@@ -1,0 +1,26 @@
+[
+ {
+  "title":"comment",
+  "placeholder":"Enter your comment here",
+  "type":"TEXT",
+  "displayType":"TEXT",
+  "isMandatory":true,
+  "validations":[],
+  "allowedValues":[],
+  "defaultValue":null,
+  "rank":1,
+  "answer":null
+ },
+ {
+  "title":"options",
+  "placeholder":null,
+  "type":"TEXT",
+  "displayType":"YES_NO_BUTTONS",
+  "isMandatory":false,
+  "validations":[],
+  "allowedValues":["Yes", "No", "N/A"],
+  "defaultValue":null,
+  "rank":2,
+  "answer":null
+ }
+]
